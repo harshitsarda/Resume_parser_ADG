@@ -7,6 +7,7 @@ A Résumé parsing technology converts an unstructured form of resume data into 
 A Resume Parser helps organizations eliminate the error-prone and time-consuming process and improves recruiters' efficiency.
 
 What is a Resume Parser?
+
 -> A resume parser is a deep learning/AI framework that identifies complete information from resumes, analyzes, store, organize, and enriches it through its taxonomies. Resume parsing software makes the hiring process quick and more productive.
 
 -> Fast and accurate resume parsing technology improves efficiency and offers an enhanced candidate experience.
@@ -36,20 +37,40 @@ Our team didn't have to spend time skimming through the resume. The required inf
 
 Why Resume Parser?
 -> Saves Time
+
 -> It parses resumes, extracts data, and saves into your ATS quickly in segregated fields.
+
 -> It allows you to organize your candidate’s resumes without wasting any time.
+
 -> Less time is needed to process and select the most relevant talent who is the right fit for your organization.
+
 -> Save employees’ time in internal referrals.     
+
 -> Improves candidate experience
+
 -> It offers auto-filling of forms in less than 10 secs so that candidates can apply to a job post in a single click without manually filling out details.
+
 -> It also helps to build your employer brand among candidates.
+
 -> Easily import millions of resumes overnight.
+
 -> Fast and accurate JD/resume parsing results.
+
 -> It strengthens your candidate database with qualitative data. 
+
 -> Quickly integrate the ‘apply now’ button on your career page.
+
 -> Get resume data from emails in less than two seconds.
+
 -> Enhance search results of Solr/Elasticsearch, skills, job profiles with Taxonomies.
+
 -> Eliminate unconscious bias by switching on/off fields and promoting diversity.
+
 -> Mask resumes before sending them to the recruiters.
+
 -> Improve your ROI from increased conversion rate.
+
 -> Better generalization to data and simplified approach to the data acquisition process.
+
+Reference:
+https://www.rchilli.com/blog/resume-parsing-101/
