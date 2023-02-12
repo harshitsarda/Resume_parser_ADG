@@ -72,5 +72,24 @@ Why Resume Parser?
 
 -> Better generalization to data and simplified approach to the data acquisition process.
 
-Reference:
-https://www.rchilli.com/blog/resume-parsing-101/
+Requirements
+Python 3.6 or higher
+Pip package manager
+Required python packages:
+PyPDF2
+python-docx
+textract
+pandas
+spacy
+Usage
+Clone this repository to your local machine
+Install the required python packages by running pip install -r requirements.txt in your command prompt or terminal.
+Run python resume_parser.py followed by the path to the resume you want to parse, like so: python resume_parser.py /path/to/resume.pdf. Alternatively, you can put your resumes in the resumes directory and run the script with the filename only, like so: python resume_parser.py resume.pdf.
+The script will output a JSON file with the extracted information in the output directory.
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
